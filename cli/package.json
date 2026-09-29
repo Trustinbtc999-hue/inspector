@@ -32,8 +32,8 @@
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
-    "tsx": "^4.7.0",
-    "vitest": "^4.0.17"
+    "tsx": "^4.23.15",
+    "vitest": "^4.1.0"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.25.2",
